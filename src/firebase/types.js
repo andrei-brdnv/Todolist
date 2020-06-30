@@ -1,0 +1,6 @@
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const ADD_TODO = 'ADD_TODO'
+export const FETCH_TODOS = 'FETCH_TODOS'
+export const REMOVE_TODO = 'REMOVE_TODO'
+export const CLEAR_ALL = 'CLEAR_ALL'
+export const TOGGLE_CHECKED = 'TOGGLE_CHECKED'
